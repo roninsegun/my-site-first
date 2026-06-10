@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Art Title",
+  "description": "An interactive digital design replication of high-fidelity typographic art set against a toggleable, serene day and night ambient landscape with matching nature audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
